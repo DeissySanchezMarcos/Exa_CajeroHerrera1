@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exa_CajeroHerrera1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_deposito">deposito</string>
+    <string name="title_activity_consulta_cajero">consulta_cajero</string>
+</resources>
